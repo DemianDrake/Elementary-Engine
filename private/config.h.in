@@ -1,0 +1,2 @@
+#define Game_Engine_VERSION_MAJOR @Game_Engine_VERSION_MAJOR@
+#define Game_Engine_VERSION_MINOR @Game_Engine_VERSION_MINOR@
