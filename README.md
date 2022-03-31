@@ -6,9 +6,14 @@
 
 ## Compilación
   Abrir la carpeta contenedora del proyecto en terminal e ingresar los siguientes comandos:
+  
     1. `mkdir build`
+    
     2. `cd build`
+    
     3. `cmake ..`
+    
     4. `cmake --build .`
+    
 
   Presta atención al Generator por defecto en tu CMake cuando armes el proyecto para saber cómo ejecutarlo apropiadamente.
