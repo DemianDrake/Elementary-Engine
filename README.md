@@ -6,20 +6,20 @@
 
 ## Compilación
   Abrir, en terminal, la carpeta donde habitará el proyecto y ejecutar los siguientes comandos:
-  
-   1. `git clone https://github.com/DemianDrake/Elementary-Engine`
-    
-   2. `cd Elementary-Engine`
-    
-   3. `git submodule update --init`
-  
-   4. `mkdir build`
-    
-   5. `cd build`
-    
-   6. `cmake ..`
-    
-   7. `cmake --build .`
-    
+
+  1. `git clone https://github.com/DemianDrake/Elementary-Engine`
+
+  2. `cd Elementary-Engine`
+
+  3. `git submodule update --init`
+
+  4. `mkdir build`
+
+  5. `cd build`
+
+  6. `cmake ..`
+
+  7. `cmake --build .`
+
 
   Presta atención al Generator por defecto en tu CMake cuando armes el proyecto para saber cómo ejecutarlo apropiadamente.
